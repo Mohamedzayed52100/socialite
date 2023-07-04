@@ -10,7 +10,7 @@
 **Created By :** Mohamed Ibrahim Zayed
 **Email :** mohamedzayed52100@gmail.com
 
-This is the main readme file for the project used in laravel socialite course on Udemy
+This is the main readme file for the project used in laravel socialite 
 
 ## Installation
 
